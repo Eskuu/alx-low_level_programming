@@ -1,4 +1,4 @@
-#include ,stdio.h>
+#include <stdio.h>
 
 /**
  * main - Prints numbers from 0 to 9.
@@ -15,4 +15,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}
+}}
